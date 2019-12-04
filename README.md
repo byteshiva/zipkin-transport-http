@@ -20,3 +20,7 @@ const tracer = new Tracer({
   ctxImpl // this would typically be a CLSContext or ExplicitContext
 });
 ```
+
+
+reference:
+https://github.com/openzipkin/zipkin-js
