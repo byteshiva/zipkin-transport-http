@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "repository": "https://github.com/byteshiva/zipkin-js-es5",
   "dependencies": {
-    "node-fetch": "^1.5.3"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "body-parser": "^1.15.2",
